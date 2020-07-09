@@ -12,6 +12,8 @@ pandas = "*"
 jupyter = "*"
 matplotlib = "*"
 scikit-learn = "*"
+jieba = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.7"
